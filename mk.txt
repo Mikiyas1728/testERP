@@ -1,1 +1,13 @@
 helo world
+====to add new branch====
+git branch [br-name]
+===to switch branch====
+git checkout [br-name]
+===to merge branches===
+git merge [br-name]
+===to delete branch===
+git branch -d [br-name]
+===to rename branch===
+git branch -m [br-name]
+
+
